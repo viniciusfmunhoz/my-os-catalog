@@ -1,0 +1,3 @@
+[submodule "language-app-base-plugin"]
+	path = language-app-base-plugin
+	url = https://github.com/viniciusfmunhoz/language-app-base-plugin
