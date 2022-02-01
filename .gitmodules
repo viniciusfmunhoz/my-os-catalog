@@ -4,3 +4,6 @@
 [submodule "sqs-consumer"]
 	path = sqs-consumer
 	url = https://github.com/viniciusfmunhoz/sqs-consumer
+[submodule "os-test-plugin"]
+	path = os-test-plugin
+	url = git@github.com:viniciusfmunhoz/os-test-plugin.git
